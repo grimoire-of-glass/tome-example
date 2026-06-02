@@ -1,5 +1,5 @@
 export const tome = {
-  name: "example"
+  name: "tome-example"
   description: "Example Grimoire tome used by the smoke tests and local demos"
 
   # This tome ships its packages as source runes, so it publishes no prebuilt archives.
